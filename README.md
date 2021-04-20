@@ -20,3 +20,9 @@ The root directory should look like this:
     ├── propbank-srl
     └── unified-frames.bin
 ```
+
+### Usage
+
+```
+python python_call_java.py
+```
