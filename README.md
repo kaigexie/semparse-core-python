@@ -1,6 +1,10 @@
 # semparse-core-python
 
-This repository contains a Python wrapper to call VerbNet Parser which was written in Java. See `python_call_java.py` for details. Before running, make sure you download and unzip (1) the pre-trained models and mapping files from [here](https://drive.google.com/open?id=1qESz4tlviIjsAYzb8qlUg1ps3o37i6l3) (2) `semparse-core.jar` from [here]().
+This repository contains a Python wrapper to call VerbNet Parser which was written in Java. See `python_call_java.py` for details.
+
+Before running, make sure you 
+ - download and unzip the pre-trained models and mapping files from [here](https://drive.google.com/file/d/1GL0N5DCOPTBnyU-028405AM5RjwszPgM)
+ - download `semparse-core.jar` from [here](https://drive.google.com/file/d/1f-3bm_uCC3ThA83CIcEjg5JL01vdaBj2)
 
 The root directory should look like this:
 
