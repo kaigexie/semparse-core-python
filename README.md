@@ -21,6 +21,12 @@ The root directory should look like this:
     └── unified-frames.bin
 ```
 
+### Install Dependency
+
+```
+pip install JPype1
+```
+
 ### Usage
 
 ```
